@@ -12,6 +12,6 @@
 
     <groupId>com.mimi.test</groupId>
     <artifactId>xiaomi</artifactId>
-
+      <!--测试-->
      <properties></properties>
 </project>
